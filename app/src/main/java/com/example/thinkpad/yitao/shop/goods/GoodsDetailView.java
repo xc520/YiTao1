@@ -1,7 +1,7 @@
 package com.example.thinkpad.yitao.shop.goods;
 
-import com.fuicuiedu.idedemo.easyshop.model.GoodsDetail;
-import com.fuicuiedu.idedemo.easyshop.model.User;
+import com.example.thinkpad.yitao.monder.GoodsDetail;
+import com.example.thinkpad.yitao.monder.User;
 import com.hannesdorfmann.mosby.mvp.MvpView;
 
 import java.util.ArrayList;
